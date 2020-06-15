@@ -6,6 +6,8 @@ http://52.149.231.47:8080/
 ```
 
 ThingsBoard is a multi-tenant application which means:
+
+
   **ThingsBoard Admin 1::many Tenants**   
   > Admin creates tenants and assigns admins to each tenant. Tenants are siloed entities managed by tenant admins
   
