@@ -30,4 +30,4 @@ The existing users are:
           - monitoring@team.com - password: userdemo
           
           
-The VideoStreaming Dashboard relies on the video player running on my local machine, which may not be running at the time of the dashboard being viewed. I will soon deploy the video player on Azure also where it will be avaialbe at all times.
+The VideoStreaming Dashboard relies on the video player running on your localhost server (which obviously you are not running). I will soon deploy my working code on Azure Cloud so you can start testing video streaming dashboard. 
