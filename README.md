@@ -21,4 +21,6 @@ The existing users are:
     - john@doe.com - password: userdemo
       - The tenant's **customers**: 
           - monitoring@team.com - password: userdemo
+          
+          
 The VideoStreaming Dashboard relies on the video player running on my local machine, which may not be running at the time of the dashboard being viewed. I will soon deploy the video player on Azure also where it will be avaialbe at all times.
