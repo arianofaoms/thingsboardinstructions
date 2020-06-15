@@ -6,9 +6,14 @@ http://52.149.231.47:8080/
 ```
 
 ThingsBoard is a multi-tenant application which means:
-  ThingsBoard Admin 1:many Tenants; Admin creates tenants and assigns admins to each tenant. Tenants are siloed entities managed by tenant admins
-  Tenant 1:many Tenant Admins; Tenant Admins create/manage/assign resources such as dashboards to their respecitve customer/end users
-  Tenant Admin 1:many customers; 
+  **ThingsBoard Admin 1::many Tenants**   
+  > Admin creates tenants and assigns admins to each tenant. Tenants are siloed entities managed by tenant admins
+  
+  **Tenant 1::many Tenant Admins**  
+  > Tenant Admins create/manage/assign resources such as dashboards to their respecitve customer/end users
+  
+  **Tenant Admin 1::many customers**  
+  > Customers can view assets
   
 
 The **admin** login is:
